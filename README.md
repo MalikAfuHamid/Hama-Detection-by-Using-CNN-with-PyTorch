@@ -1,1 +1,1 @@
-# Hama-Detection by Using CNN with PyTorch
+# Hama-Recognition by Using CNN with PyTorch
